@@ -5,6 +5,12 @@
     "modLink": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.21/BepInEx_x64_5.4.21.0.zip",
     "isZipped": true
   },
+   {
+    "modName": "Computer Interface",
+    "modAuthor": "Dev9998",
+    "modLink": "https://github.com/ThatError404/UTILLA-CI-FIX/releases/download/CI/ComputerInterface.zip",
+    "isZipped": true
+  },
   {
     "modName": "Utilla",
     "modAuthor": "legoandmars",
