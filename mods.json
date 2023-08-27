@@ -94,5 +94,11 @@
     "modAuthor": "The-Graze",
     "modLink": "https://github.com/The-Graze/GorillaFriends/releases/download/2.0.1/GorillaFriends.dll",
     "isZipped": false
+  },
+  {
+    "modName": "RaiseAGorilla",
+    "modAuthor": "DecalFree",
+    "modLink": "https://github.com/DecalFree/RaiseAGorilla/releases/download/v1.0.0/RaiseAGorilla.dll",
+    "isZipped": false
   }
 ]
