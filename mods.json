@@ -100,5 +100,11 @@
     "modAuthor": "DecalFree",
     "modLink": "https://github.com/DecalFree/RaiseAGorilla/releases/download/v1.0.0/RaiseAGorilla.dll",
     "isZipped": false
+  },
+  {
+    "modName": "LightsCameraAction",
+    "modAuthor": "ThatError404",
+    "modLink": "https://github.com/ThatError404/LightsCameraAction/releases/download/v1.0.0/LightsCameraAction-1.0.0.zip",
+    "isZipped": true
   }
 ]
